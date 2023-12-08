@@ -18,15 +18,22 @@ Airbnb has also become a popular choice for travelers who want to experience a d
 **About the Dataset –**
 
 AIRBNB BOOKINGS
+
 Dataset Information
+
 Number of instances: 48895
+
 Number of attributes: 16
+
 
 The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
 
+
 This Dataset may be useful for analyzing trends and patterns in the Airbnb market in New York and also gain insights into the preferences and behavior of Airbnb users in the area.
 
+
 This dataset contains information about Airbnb bookings in New York City in 2019. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the NYC.
+
 
 **Different Python libraries used to complete this EDA:**
 Pandas,
