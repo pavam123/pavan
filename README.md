@@ -1,4 +1,4 @@
-**Capstone-EDA-project-1-Airbnb-bookings-analysis AirBnb**
+**Capstone-EDA-project-Airbnb-bookings-analysis **
 
 Table Of Contents
 Introduction of Airbnb
